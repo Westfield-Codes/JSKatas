@@ -6,11 +6,11 @@
 
 /* Var Alert */
 // make a string variable named color, set it equal to your favorite color.
-// alert the message" "My favorite color is " plus the variable name outside quotes.
+// alert the message" "My favorite color is " plus the variable name, outside the quotes.
 
 /* Var Alert Prompt */
-// make a string variable for color, prompt the user for their favorite color.
-// alert color " plus is a nice color!"
+// make a string variable for color, but prompt the user for their favorite color.
+// alert color plus " is a nice color!" - note the space in the quotes.
 
 /* Var Alert Prompt Conditional */
 // make a string variable for color, prompt the user for their favorite
@@ -29,32 +29,30 @@
 // make a string variable for name, prompt user for their name
 // alert name is age years old
 
-
 /* Var Alert Prompt Conditional */
 // make an integer variable for age, prompt user for it
 // make a string variable for name, prompt user for it
 // if age is greater than 16, alert "you don't look that old!"
 // otherwise alert name is age years old
 
-
-/* ICE CREAM KATAS */
+/* ICE CREAM CONE KATAS */
 
 /* Var Alert Prompt */
-// make a string variable for ice cream flavor, prompt user for it
-// make an integer variable for scoops, prompt user for it
+// make a string variable for favorite ice cream flavor, prompt user for it
+// make an integer variable for number of scoops on the cone, prompt user for it
 // alert "You want " scoops "scoops of " flavor
 
 /* Var Alert Prompt Conditional */
-// make a string variable for ice cream flavor, prompt user for it
-// make an integer variable for scoops, prompt user for it
-// if scoop is creater than three, alert ("Max 3 scoops!")
-// otherwise alert "You want " scoops "scoops of " flavor
+// make a string variable for favorite ice cream flavor, prompt user for it
+// make an integer variable for number of scoops on the cone, prompt user for it
+// if scoosp is creater than three, alert ("Max 3 scoops!")
+// otherwise alert "You want " scoops " scoops of " flavor
 
 /* PET KATAS */
 
 /* Var Alert Prompt */
-// make a variable for pet type, prompt user for it 
-// make a variable for pet name, prompt user for it
+// make a variable for a pet type, prompt user for it 
+// make a variable for a pet name, prompt user for it
 // alert "You have a pet type named pet name 
 
 /* Var Alert Prompt Conditionals */
